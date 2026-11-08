@@ -1,14 +1,13 @@
 # 🚀 First Steps - HTML
 
-My first steps into HTML and web development. This repository contains practice files where I learned basic HTML tags and document structures.
-
 ## 📂 Contents
-* `index.html`: My first web page built using basic headings (`<h1>`, `<h2>`) and paragraphs (`<p>`).
+- `index.html`
 
 ## 🛠️ What I Learned & Practiced
-* Setting up the basic HTML skeleton (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)
-* Text hierarchy and heading tags (`<h1>` - `<h2>`)
-* Paragraph structures (`<p>`)
+- Document Skeleton (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)
+- Text Hierarchy (`<h1>` to `<h6>`)
+- Paragraph Structures (`<p>`)
+- Modern Standards (Semantic HTML, avoiding deprecated attributes like `align`)
 
 ---
 **Author:** Emirhan Yenievecek (`emrhnck`)
